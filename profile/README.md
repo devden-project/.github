@@ -20,10 +20,10 @@
 * Back Code : https://github.com/devden-project/Back
 > 자세한 사항은 각 리포지토리별로 확인 부탁드립니다!
 ### 팀원 소개
-|고진혁|옥경림|
+|고진혁||
 |:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/160887371?v=4" width="100" height="100" />|<img src="https://avatars.githubusercontent.com/u/37587498?v=4" width="100" height="100" />|
-|[@JinhyeokKo](https://github.com/JinhyeokKo)|[@kyung89](https://github.com/kyung89)|
+|<img src="https://avatars.githubusercontent.com/u/160887371?v=4" width="100" height="100" />||
+|[@JinhyeokKo](https://github.com/JinhyeokKo)||
 |BACKEND|FRONTEND|
 ### 사용 기술
 #### Front-end
